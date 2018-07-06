@@ -1,6 +1,7 @@
 const style = {
   root: {
-    backgroundColor: 'purple',
+    height: '100%',
+    backgroundColor: 'deeppink',
     fontFamily: 'avenir',
     color: 'white',
     display: 'flex',
